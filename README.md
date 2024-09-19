@@ -7,8 +7,6 @@ ZeroTrace is a powerful encryption tool that provides multi-layered, military-gr
 
 Are you concerned about the security of your sensitive data? Do you want a no-compromise solution that offers the highest level of encryption without the complexity? Look no further!
 
-**ZeroTrace** is a cutting-edge encryption tool designed to provide **ridiculously strong military-grade encryption** in an easy-to-use package. With ZeroTrace, you get:
-
 - **Triple-Layered Encryption**: Combines AES-256-CBC, Camellia-256-CBC, and ChaCha20 encryption algorithms for unparalleled security.
 - **Automatic Password Generation**: Eliminates the need to create and remember complex passwords. ZeroTrace securely generates and manages them for you.
 - **Simple Integration**: Dockerized solution ensures quick setup and compatibility across different systems.
