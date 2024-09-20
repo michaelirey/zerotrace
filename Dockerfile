@@ -1,5 +1,8 @@
 # docker build -t zero-trace .
 
+# Buiild and push the Docker image
+# docker buildx build --platform linux/amd64,linux/arm64 -t michaelirey/zero-trace:latest -t michaelirey/zero-trace:0.1 --push .
+
 
 # Use a lightweight base image
 FROM debian:bullseye-slim
